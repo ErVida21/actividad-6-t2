@@ -1,0 +1,21 @@
+body{
+    font-family:"lato" ;
+}
+#equipo{
+    background-color: blueviolet;
+    color: white;
+
+}
+#entrenador{
+    text-align: center;
+    color: blueviolet;
+}
+#equipo-imagen{
+    position: relative;
+    left: 50%;
+
+}
+#jugadores{
+    position: relative;
+    left: 50%;
+}

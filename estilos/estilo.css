@@ -1,0 +1,70 @@
+body{
+    font-family:"lato" ;
+}
+main{
+    clear: both;
+}
+.equipo-nombre{
+    text-align: center;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    font-weight: bold;
+    font-size: 40px;
+    margin: 20px;
+    }
+
+.equipo{
+    border: 1px solid red;
+    margin: 5px;
+}
+
+.equipo-estadio{
+    color: #673ab7;
+}
+
+#logo-liga{
+    position: absolute;
+    height: 120px;
+    left: 70px;
+}
+.competicion-logo{
+    height: 100px;
+}
+.equipo{
+    display: inline-block;
+    border-radius: 20px;
+    background-color: white;
+    padding: 10px;
+    -webkit-box-shadow: 4px 4px 20px 0px color#973ab7;
+    box-shadow:4px 4px 20px 0px color#973ab7;
+    margin: 20px;
+    text-align: center;
+    align-items: center;
+}
+header{
+    border: 1px solid green;
+    background-color: #973ab7;
+    text-align: center;
+}
+.equipo-estadio{
+    color: #673ab7;
+    border-bottom: solid 2px #673ab7;
+    border-top: solid 2px #673ab7;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;
+}
+    
+.fundacion{
+    background-color: #673ab7;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;
+}
+
+.equipo-imagen{
+    height: 120px;
+}
